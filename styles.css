@@ -1,0 +1,105 @@
+/* font-family: 'Corinthia', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Montserrat', sans-serif; */
+#title{
+  font-family: 'Dancing Script',cursive;
+  background-color: white;
+  color: #7DE5ED;
+  margin: 20px;
+  font-size: 3rem;
+}
+.title{
+  font-family: 'Dancing Script',cursive;
+}
+#testimonials{
+  background-color: #FF0063;
+  color: #fff;
+}
+.cou-img{
+  margin-left: 350px;
+}
+#medium{
+  background-color: #FF559D;
+  line-height: 2;
+  font-size: 3.5rem;
+  text-align:center;
+  color: white;
+  font-family: 'Corinthia', cursive;
+  padding: 40px;
+}
+.bondingStrength-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+
+}
+
+.bondingHeading{
+  color:#FF559D;
+  font-family: 'Pacifico', cursive;
+  margin: 60px;
+  text-align: center;
+}
+
+/* .medium-text{
+  line-height: 1.5;
+  font-size: 3rem;
+} */
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+
+}
+.girl-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  border-radius: 50%;
+}
+.boy-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  border-radius: 50%;
+}
+h3{
+  color: pink;
+}
+.check{
+  margin-top: 120px ;
+  width: 40%;
+  line-height: 2;
+}
+.btn {
+  background: pink;
+  background-image: -webkit-linear-gradient(top, pink, #FF559D);
+  background-image: -moz-linear-gradient(top,pink, #FF559D);
+  background-image: -ms-linear-gradient(top, pink,#FF559D);
+  background-image: -o-linear-gradient(top, pink, #FF559D);
+  background-image: linear-gradient(to bottom, pink, #FF559D);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: pink;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+position: relative;
+top:40px;
+margin-top: 60px;
+}
+.btn:hover {
+  background: #FF559D;
+  background-image: -webkit-linear-gradient(top, #FF559D, pink);
+  background-image: -moz-linear-gradient(top, #FF559D, pink);
+  background-image: -ms-linear-gradient(top, #FF559D,pink);
+  background-image: -o-linear-gradient(top, #FF559D, pink);
+  background-image: linear-gradient(to bottom, #FF559D, pink);
+  text-decoration: none;
+}
